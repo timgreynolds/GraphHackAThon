@@ -2,7 +2,7 @@
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace GraphHackAThon;
+namespace GraphHcom.mahonkin.tim.maui.GraphHackAThonackAThon;
 
 class Program : MauiApplication
 {

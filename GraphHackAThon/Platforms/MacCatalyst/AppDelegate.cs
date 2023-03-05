@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace GraphHackAThon;
+namespace com.mahonkin.tim.maui.GraphHackAThon;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

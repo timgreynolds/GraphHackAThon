@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace GraphHackAThon;
+namespace com.mahonkin.tim.maui.GraphHackAThon;
 
 public static class MauiProgram
 {

@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace GraphHackAThon;
+namespace com.mahonkin.tim.maui.GraphHackAThon;
 
 public class Program
 {

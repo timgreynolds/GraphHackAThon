@@ -1,4 +1,4 @@
-﻿namespace GraphHackAThon;
+﻿namespace com.mahonkin.tim.maui.GraphHackAThon;
 
 public partial class AppShell : Shell
 {

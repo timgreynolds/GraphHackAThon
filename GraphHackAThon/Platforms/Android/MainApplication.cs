@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace GraphHackAThon;
+namespace com.mahonkin.tim.maui.GraphHackAThon;
 
 [Application]
 public class MainApplication : MauiApplication

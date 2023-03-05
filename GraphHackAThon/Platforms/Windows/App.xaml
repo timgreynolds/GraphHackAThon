@@ -1,9 +1,9 @@
 ﻿<maui:MauiWinUIApplication
-    x:Class="GraphHackAThon.WinUI.App"
+    x:Class="com.mahonkin.tim.maui.GraphHackAThon.WinUI.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:maui="using:Microsoft.Maui"
-    xmlns:local="using:GraphHackAThon.WinUI">
+    xmlns:local="using:com.mahonkin.tim.maui.GraphHackAThon.WinUI">
 
 </maui:MauiWinUIApplication>
 
